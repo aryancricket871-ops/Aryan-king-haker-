@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982887245160",
+    "project_id": "mycontrolapp-aryan",
+    "storage_bucket": "mycontrolapp-aryan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982887245160:android:81f0f2f1429c8d9e5522dd",
+        "android_client_info": {
+          "package_name": "com.aryan.controlapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn9uKVXXk4KnoxNpRcC3A4DRjzNRLdKNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
