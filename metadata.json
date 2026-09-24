@@ -1,6 +1,0 @@
-{
-  "name": "Aura Studio & Testing Lab",
-  "description": "An interactive, beautifully crafted productivity workspace with ambient soundscapes, focus timer, task matrix, scratchpad, and UI testing suite.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
